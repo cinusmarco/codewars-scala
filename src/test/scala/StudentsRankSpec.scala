@@ -1,4 +1,4 @@
-import ch.cinus.codewars.six_kyu.whohastehmostmoney.{Student, StudentsRank}
+import ch.cinus.codewars.six_kyu.whohasthemostmoney.{Student, StudentsRank}
 import org.scalatest.{FlatSpec, Matchers}
 
 class StudentsRankSpec extends FlatSpec with Matchers {

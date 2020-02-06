@@ -1,4 +1,4 @@
-package ch.cinus.codewars.six_kyu.whohastehmostmoney
+package ch.cinus.codewars.six_kyu.whohasthemostmoney
 
 object StudentsRank {
 

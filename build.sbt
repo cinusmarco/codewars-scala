@@ -1,4 +1,4 @@
-name := "kata"
+name := "Codewars: Scala"
 
 version := "0.1"
 
